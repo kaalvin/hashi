@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  hashi:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2023-11-20T14:05:37.170116-06:00"
+    description: A Helm chart for Kubernetes
+    digest: cb725fffccdba0f299bdc79417e92fa7ae4b1c2def847b0259a334a1b0bc94be
+    name: hashi
+    type: application
+    urls:
+    - https://github.com/kalvin/hashi/hashi-0.1.0.tgz
+    version: 0.1.0
+generated: "2023-11-20T14:05:37.169694-06:00"
